@@ -26,7 +26,7 @@ Provisioning 是一组与 Linux 上的 Apple 服务器交互的工具。
 ## 容器
 <div align="center">
 
-[![Kofi](https://img.shields.io/badge/Kofi-RMBGAME-orange.svg?style=flat-square&logo=Render)](https://dashboard.render.com/register)
+[![Render](https://img.shields.io/badge/Kofi-RMBGAME-orange.svg?style=flat-square&logo=Render)](https://dashboard.render.com/register)
 
 </div>
 
