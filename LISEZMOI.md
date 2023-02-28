@@ -1,6 +1,6 @@
 # Provision
 
-[中文](README.md) ⋅ [English](README.md) ⋅ Français
+[中文](README.md) ⋅ [English](English.md) ⋅ Français
 
 > **Warning** **(attention)**  \
 > N'utilisez pas votre compte Apple personnel ! Préférez un compte secondaire sans importance.  \
