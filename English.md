@@ -1,6 +1,6 @@
 # Provision
 
-[中文](English.md) ⋅ English ⋅ [Français](LISEZMOI.md)
+[中文](README.md) ⋅ English ⋅ [Français](LISEZMOI.md)
 
 > **Warning**  \
 > Don't use your main Apple account! Prefer a secondary Apple account.  \
