@@ -13,7 +13,7 @@ Provisioning 是一组与 Linux 上的 Apple 服务器交互的工具。
 - *anisette_server，用于其他软件（如AltServer-Linux）的Anisette配置服务器[AltServer-Linux](https://github.com/NyaMisty/AltServer-Linux)。
 - *retrieve_headers，它将设备注册到 libprovision 并在终端中返回 JSON 用于在将来的请求中标识设备的标头。
 - *sideload_ipa，有关如何使用 libprovisioning 并继续请求安装应用程序的示例 在苹果设备上。
-注意：sideload_ipa尚未完成。
+- 注意：sideload_ipa尚未完成。
 
 更准确地说，libprovisioning 将设备注册到 Apple 服务器，并检索设备的 ADI 数据。 使用机器登录一次后，Apple会使用此数据记住您的计算机是安全的 请注意，仅在受信任的计算机上登录，并且不要泄露存储在 中的 ADI 数据。~/.adi/adi.pb
 
