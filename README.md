@@ -2,7 +2,7 @@
 
 中文 ⋅ [English](English.md) ⋅ [Français](LISEZMOI.md)
 
-> ️️️️️️警告  \
+> **Warning**  警告  \
 >不要使用您的苹果主帐户！首选辅助苹果帐户。  \
 >如果您的Apple帐户出现问题，与我无关。
 
