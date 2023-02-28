@@ -23,7 +23,7 @@ Provisioning 是一组与 Linux 上的 Apple 服务器交互的工具。
 ## 下载
 您可以在项目的“操作[Actions](https://github.com/Dadoum/Provision/actions)”选项卡中下载可执行文件。
 
-## 码头工人
+## 容器
 如果您希望在 docker 中运行 Anisette 以公共或私有方式托管服务器。确保安装 docker/podman 并运行以下命令：
 ```bash
 docker run -d -v lib_cache:/opt/lib/ --restart=always -p 6969:6969 --name anisette dadoum/anisette-server:latest
